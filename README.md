@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @khaledmorshed
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning Competitive Programming.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me. 
+- by mail: s.m.morshed10@gmail.com
 
 <!---
 khaledmorshed/khaledmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
