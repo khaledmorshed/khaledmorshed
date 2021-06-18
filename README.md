@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaledmorshed
+- 👋 Hi, I’m S.M. Khaled Morshed
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Competitive Programming.
 - 💞️ I’m looking to collaborate on 
