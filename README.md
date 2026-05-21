@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about Mobile App Development
+- 💻 Passionate about Programming
 - 📱 Currently working with Flutter
 - 🌱 Learning advanced Flutter architecture & backend integration
 - 🤝 Open to collaborating on Flutter projects
