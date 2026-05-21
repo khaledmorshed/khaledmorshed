@@ -5,8 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Application+Developer;Passionate+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
+
 ---
 ## 🚀 About Me
+
 - 💻 Passionate about Programming
 - 📱 Currently working with Flutter
 - 🌱 Learning advanced Flutter architecture & backend integration
