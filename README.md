@@ -16,7 +16,6 @@
 - 🤝 Open to collaborating on Flutter projects
 - ⚡ Love building clean and responsive UI
 - 📫 Reach me at: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=s.m.morshed10@gmail.com">s.m.morshed10@gmail.com</a>
-
 ---
 
 ## 🛠️ Languages and Tools
