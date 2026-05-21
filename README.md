@@ -21,7 +21,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,flutter,dart,firebase,androidstudio,vscode,git,github,figma,java"
-    width="500" />
+    width="400" />
 </p>
 
 
