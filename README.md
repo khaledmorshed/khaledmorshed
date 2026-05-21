@@ -25,18 +25,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,java" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaledmorshed&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledmorshed&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 
 ## 🌐 Connect with Me
 
@@ -46,6 +34,9 @@
 </a>
 <a href="https://github.com/khaledmorshed">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/smkhaledmorshed/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
