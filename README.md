@@ -15,10 +15,9 @@
 - 🌱 Learning advanced Flutter architecture & backend integration
 - 🤝 Open to collaborating on Flutter projects
 - ⚡ Love building clean and responsive UI
-- 📫 Reach me at: <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=s.m.morshed10@gmail.com" target="_blank">
+- Reach me at: <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=s.m.morshed10@gmail.com" target="_blank">
   s.m.morshed10@gmail.com
 </a>
----
 
 ## 🛠️ Languages and Tools
 
