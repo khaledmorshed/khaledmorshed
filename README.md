@@ -20,7 +20,8 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,flutter,dart,firebase,androidstudio,vscode,git,github,figma,java"style="transform: scale(0.2);" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,flutter,dart,firebase,androidstudio,vscode,git,github,figma,java"
+    width="100" />
 </p>
 
 
