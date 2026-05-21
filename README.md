@@ -37,13 +37,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khaledmorshed&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
@@ -56,9 +49,5 @@
 </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaledmorshed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
